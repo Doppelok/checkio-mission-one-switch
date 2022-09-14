@@ -54,22 +54,6 @@ TESTS = {
         {
             "input": ["abracadabra", "badaboom"],
             "answer": False
-        },
-        {
-            "input": ["bodep", "bopep"],
-            "answer": False
-        },
-        {
-            "input": ["fox", "fox"],
-            "answer": True
-        },
-        {
-            "input": ["badaboomz", "badaboom"],
-            "answer": False
-        },
-        {
-            "input": ["burx", "byrt"],
-            "answer": False
         }
     ]
 }
