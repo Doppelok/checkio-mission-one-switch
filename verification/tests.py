@@ -54,6 +54,10 @@ TESTS = {
         {
             "input": ["abracadabra", "badaboom"],
             "answer": False
+        },
+        {
+            "input": ["burx", "byrt"],
+            "answer": False
         }
     ]
 }
